@@ -50,7 +50,7 @@
     ],
     "imageResize": false,
     "uniqCompNum": 2,
-    "versionPublish": "5.0.0",
+    "versionPublish": "5.0.2",
     "favicon": "@PROJECT_PATH@/assets/images/rmpc-128x128.png",
     "sitemapSwitcher": true,
     "siteUrl": "http://rmpc.ca",
@@ -58,7 +58,12 @@
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-162073301-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-162073301-1');\n</script>",
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "lazyType": "nothing"
   },
   "pages": {
     "index.html": {
