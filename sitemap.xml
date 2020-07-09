@@ -45,9 +45,6 @@
 		<loc>http://rmpc.ca/victoria.html</loc>
 	</url>
 	<url>
-		<loc>http://rmpc.ca/page15.html</loc>
-	</url>
-	<url>
 		<loc>http://rmpc.ca/sumallo-grove.html</loc>
 	</url>
 	<url>
@@ -55,9 +52,6 @@
 	</url>
 	<url>
 		<loc>http://rmpc.ca/manning-park-skiing.html</loc>
-	</url>
-	<url>
-		<loc>http://rmpc.ca/page19.html</loc>
 	</url>
 	<url>
 		<loc>http://rmpc.ca/backyard-forest.html</loc>
@@ -127,5 +121,11 @@
 	</url>
 	<url>
 		<loc>http://rmpc.ca/operation-backup-inspiration.html</loc>
+	</url>
+	<url>
+		<loc>http://rmpc.ca/sun-peaks.html</loc>
+	</url>
+	<url>
+		<loc>http://rmpc.ca/lights-at-lafarge.html</loc>
 	</url>
 </urlset>
