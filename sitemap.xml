@@ -48,9 +48,6 @@
 		<loc>http://rmpc.ca/sumallo-grove.html</loc>
 	</url>
 	<url>
-		<loc>http://rmpc.ca/pitt-lake.html</loc>
-	</url>
-	<url>
 		<loc>http://rmpc.ca/manning-park-skiing.html</loc>
 	</url>
 	<url>
@@ -133,5 +130,11 @@
 	</url>
 	<url>
 		<loc>http://rmpc.ca/valemount.html</loc>
+	</url>
+	<url>
+		<loc>http://rmpc.ca/pitt-lake.html</loc>
+	</url>
+	<url>
+		<loc>http://rmpc.ca/the-forks.html</loc>
 	</url>
 </urlset>
