@@ -55,7 +55,7 @@
         "url": "https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/rmpc.png",
+    "favicon": false,
     "imageResize": false,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -92,7 +92,7 @@
     "witsec-mailform": false,
     "witsec-language": false,
     "witsec-white-label": false,
-    "mbrsiteDomain": "1wytpizosl",
+    "mbrsiteDomain": "ylyvqfzsos",
     "publishChangesOnly": false
   },
   "pages": {
