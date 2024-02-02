@@ -6,9 +6,6 @@
 		<loc>https://maxn.me/sets.html</loc>
 	</url>
 	<url>
-		<loc>https://maxn.me/best-photos.html</loc>
-	</url>
-	<url>
 		<loc>https://maxn.me/about-me.html</loc>
 	</url>
 	<url>
@@ -178,5 +175,8 @@
 	</url>
 	<url>
 		<loc>https://maxn.me/2023-deer-lake.html</loc>
+	</url>
+	<url>
+		<loc>https://maxn.me/cool-photos.html</loc>
 	</url>
 </urlset>
